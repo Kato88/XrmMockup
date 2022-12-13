@@ -1,3 +1,16 @@
+### 1.11.1 - 21 November 2022
+* Ensure dlls are not loaded multiple times (@magesoe)
+
+### 1.11.0 - 10 November 2022
+* Add support for .NET6 (@mkholt)
+
+### 1.10.1 - 24 August 2022
+* Add TargetType to SetEntityProperty actions in workflow handling to ensure differing types are handled correctly (@mkholt)
+
+### 1.10.0 - 14 March 2022
+* Added SDK message processing step to plugin query (@kato88)
+* Added snapshot to file feature (@tvbirch)
+
 ### 1.9.0 - 13 December 2021
 * Added support for virtual datatype (@nillas12)
 
